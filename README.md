@@ -2,7 +2,7 @@
 
 This repo is for stat545 Assignment 3 & 4. They are the development of BC liquor app with some new features.
 
-[**FOR ASSIGNMENT 3:**]{.underline}
+**FOR ASSIGNMENT 3:**
 
 Here's a link to a running instance of my Shiny app: <https://mengyangguo.shinyapps.io/assignment-b3-mengyangbillyguo/>
 
@@ -20,9 +20,7 @@ A description of my app: I updated the BC Liquor app by adding five new features
 
 -   Fifth, I used the DT package to turn a static table into an interactive table.
 
-Data source: <https://raw.githubusercontent.com/daattali/shiny-server/master/bcl/www/bcl-data.csv>
-
-[**FOR ASSIGNMENT 4:**]{.underline}
+**FOR ASSIGNMENT 4:**
 
 I choose: Option C - Shinny app (implement additional features and improvements to BC Liquor App)
 
