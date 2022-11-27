@@ -4,7 +4,7 @@ This repo is for stat545 Assignment 3 & 4. They are the development of BC liquor
 
 **FOR ASSIGNMENT 3:**
 
-Here's a link to a running instance of my Shiny app: <https://mengyangguo.shinyapps.io/assignment-b3-mengyangbillyguo/>
+**ASSIGNMENT 3 SHINNY APP LINK:** <https://mengyangguo.shinyapps.io/assignment-b3-mengyangbillyguo/>
 
 I choose: Option A - BC Liquor app
 
@@ -26,7 +26,7 @@ I choose: Option C - Shinny app (implement additional features and improvements 
 
 Here's a link to a running instance of my Shiny app (with six features):
 
-Link: [https://mengyangguo.shinyapps.io/assignment-b4-mengyangbilly/](https://mengyangguo.shinyapps.io/assignment-b4-mengyangbilly/?_ga=2.245009036.888952656.1669538170-1321260953.1668913605)
+**ASSIGNMENT 4 SHINNY APP LINK:** [https://mengyangguo.shinyapps.io/assignment-b4-mengyangbilly/](https://mengyangguo.shinyapps.io/assignment-b4-mengyangbilly/?_ga=2.245009036.888952656.1669538170-1321260953.1668913605)
 
 A description of my app: I updated the BC Liquor app by adding *additional four new features*
 
